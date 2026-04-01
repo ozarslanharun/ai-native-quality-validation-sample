@@ -1,12 +1,5 @@
 # LambdaTest Configuration
-
-# Project and folder configuration
 project_id: "01KN4REBDB51MAXA8AKCRF0R3C"
-folder_id: "01KN4RF5Z04D1FEZH2MJV5CHX0"
-
-# Test Run configuration
-assignee: 1630925
-environment_id: 236698
-
-# Test URL for automation
-# test_url: "https://demo.lambdatestinternal.com"
+  folder_id: "01KN4RF5Z04D1FEZH2MJV5CHX0"
+assignee: : 1630925
+  invalid: : : yaml
